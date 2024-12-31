@@ -8,7 +8,7 @@ To install the module, run:
 
 ```bash
 pip install convert_values
-
+```
 ### Usage
 ```
 from convert_values import convert_value
