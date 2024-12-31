@@ -1,0 +1,8 @@
+README.md
+setup.py
+convert_values/__init__.py
+convert_values/convert.py
+convert_values.egg-info/PKG-INFO
+convert_values.egg-info/SOURCES.txt
+convert_values.egg-info/dependency_links.txt
+convert_values.egg-info/top_level.txt
