@@ -15,7 +15,7 @@ from convert_values import convert_value
 
 value = "1"
 
-print(type(convert_value(value))
+print(type(convert_value(value)) # this returns -> int
 ```
----> int
+
 
